@@ -1,31 +1,32 @@
-## Hi there , I'm Estifanos 👋
+<h1 align="center">Hi 👋, I'm Estifanos Wondwossen</h1>
+<h3 align="center">I'm a curious and resilient developer based in Addis Ababa, Ethiopia 🇪🇹</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=estifwonde1&label=Profile%20views&color=0e75b6&style=flat" alt="estifwonde1" /> </p>
 
-I'm a curious and resilient developer based in Addis Ababa, Ethiopia 🇪🇹  
-Currently crafting modern web apps .
+- 🔭 I’m currently working on [drimslogistic](https://github.com/estifwonde1/prototypelogistics.git)
 
+- 🌱 I’m currently learning **-Ruby on rails for powerful backend development -Rust for guaranteed memory safety and high performance without a garbage collector**
 
-- 🌱 I’m currently learning ...
- -react and vite for sleek frontend
- -Ruby on rails for powerful backend development
- -PHP for full-stack versatility!
+- 🧠 Troubleshooting Superpowers: **- Git gone rogue? I’ll debug it line by line
+    - VirtualBox refuses to launch? Challenge accepted
+     - Lost movie file? I’ve got PowerShell for that 😎**
 
- -python
+- 📫 How to reach me **estifanoswondwossen396@gmail.com Feel free to explore my repos, follow my dev journey, or reach out if you’ve got tips, tricks, or a cool Git workflow!**
 
-##🧪Mini projects:
--✅TO-Do list- A simple task tracker with basic CRUD functionality 
--🎨Etch-a-schetch- A pixel drawing grid built with dynamic DOM renderting
+- ⚡ Fun fact **I once stumbled upon a movie on my PC while looking for something else... watched it... forgot the title... now I’m hunting it like it’s a side quest**
 
-## 🧠 Troubleshooting Superpowers:
-- Git gone rogue? I’ll debug it line by line  
-- VirtualBox refuses to launch? Challenge accepted  
-- Lost movie file? I’ve got PowerShell for that 😎
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/estifanoswondwossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estifanoswondwossen" height="30" width="40" /></a>
+<a href="https://instagram.com/estifwonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estifwonde" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/estifwonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="estifwonde" height="30" width="40" /></a>
+</p>
 
-## 📫 Let’s Connect:
-Feel free to explore my repos, follow my dev journey, or reach out if you’ve got tips, tricks, or a cool Git workflow!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- 
-## ⚡ Fun fact:
-I once stumbled upon a movie on my PC while looking for something else... watched it... forgot the title... now I’m hunting it like it’s a side quest
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estifwonde1&show_icons=true&locale=en&layout=compact" alt="estifwonde1" /></p>
 
-[212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/8d19a645-b4bb-490b-b6f4-10a071257755)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estifwonde1&show_icons=true&locale=en" alt="estifwonde1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estifwonde1&" alt="estifwonde1" /></p>
