@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Advanced Python concepts, RESTful API design, and system architecture fundamentals.on rails for powerful backend development -Rust for full-stack versatility!**
 
+- 🐍 Python CLI Practice: **Solo terminal-based projects (like a procedural Blackjack game) built without AI assistance—focusing on clean function design, dictionary state management, and core logic control.**
+
 - 🧠 Troubleshooting Superpowers: **- Git gone rogue? I’ll debug it line by line - VirtualBox refuses to launch? Challenge accepted - Lost movie file? I’ve got PowerShell for that 😎**
 
 - 📫 How to reach me **estifanoswondwossen396@gmail.com Feel free to explore my repos, follow my dev journey, or reach out if you’ve got tips, tricks, or a cool Git workflow!**
