@@ -1,32 +1,73 @@
 <h1 align="center">Hi 👋, I'm Estifanos Wondwossen</h1>
-<h3 align="center">Software Engineering Student at BITS College based in Addis Ababa, Ethiopia 🇪🇹 Focused on backend architecture, API development, database logic, and systems engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estifwonde1&label=Profile%20views&color=0e75b6&style=flat" alt="estifwonde1" /> </p>
+<h3 align="center">
+Software Engineering Student at BITS College, based in Addis Ababa, Ethiopia 🇪🇹
+<br>
+Building a strong foundation in Python, backend development, and systems engineering.
+</h3>
 
-- 🔭 I’m currently working on [Terminal-based Python CLI apps completely solo (focusing on raw logic, state management, and algorithmic control flow)](https://github.com/estifwonde1/100days-of-python.git)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=estifwonde1&label=Profile%20views&color=0e75b6&style=flat" alt="estifwonde1" />
+</p>
 
-- 🌱 I’m currently learning **Advanced Python concepts, RESTful API design, and system architecture fundamentals.on rails for powerful backend development -Rust for full-stack versatility!**
+- 🐍 **Currently focused on Python** — building projects from scratch to strengthen my programming fundamentals, problem solving, OOP, data structures, file handling, and APIs.
 
-- 🐍 Python CLI Practice: **Solo terminal-based projects (like a procedural Blackjack game) built without AI assistance—focusing on clean function design, dictionary state management, and core logic control.**
+- 🔨 Currently working through **100 Days of Python**, with a focus on understanding the logic behind what I build rather than relying on AI to write it for me.
 
-- 🧠 Troubleshooting Superpowers: **- Git gone rogue? I’ll debug it line by line - VirtualBox refuses to launch? Challenge accepted - Lost movie file? I’ve got PowerShell for that 😎**
+- 🧠 Building toward **backend engineering**, with interests in REST APIs, databases, system architecture, and reliable backend systems.
 
-- 📫 How to reach me **estifanoswondwossen396@gmail.com Feel free to explore my repos, follow my dev journey, or reach out if you’ve got tips, tricks, or a cool Git workflow!**
+- 🛠️ I enjoy troubleshooting things that don't work — from debugging Git repositories and Linux environments to tracking down problems line by line.
 
-- ⚡ Fun fact **I once stumbled upon a movie on my PC while looking for something else... watched it... forgot the title... now I’m hunting it like it’s a side quest**
+- 🚀 My goal is simple: **become a programmer who can build and understand things independently.**
+
+- 📫 How to reach me **estifanoswondwossen396@gmail.com**
+
+- ⚡ Fun fact: I once stumbled upon a movie on my PC while looking for something else, watched it, forgot the title, and now I'm hunting it like it's a side quest.
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/estifanoswondwossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estifanoswondwossen" height="30" width="40" /></a>
-<a href="https://instagram.com/estifwonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estifwonde" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/estifanoswondwossen" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estifanoswondwossen" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/estifwonde" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estifwonde" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estifwonde1&show_icons=true&locale=en&layout=compact" alt="estifwonde1" /></p>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://rubyonrails.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estifwonde1&show_icons=true&locale=en" alt="estifwonde1" /></p>
+<h3 align="left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estifwonde1&" alt="estifwonde1" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estifwonde1&show_icons=true&locale=en&layout=compact" alt="estifwonde1" />
+</p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=estifwonde1&show_icons=true&locale=en" alt="estifwonde1" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estifwonde1" alt="estifwonde1" />
+</p>
